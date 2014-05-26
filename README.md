@@ -1,4 +1,4 @@
-tarumi-server
+tarumi
 =============
 
-Server which execute requests from your slash commands
+Execute scripts from Slash
